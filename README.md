@@ -57,10 +57,3 @@ A lightweight, desktop-based library management application built with **pure Ja
 
 - The main application window should appear
 
-🎯 Usage Examples
-Action |	Description |
-Add Book |	Enter book ID, title, author, and category |
-Register Member |	Provide member name, ID, and contact info |
-Borrow Book |	Scan/enter book ID and member ID, set due date |
-Return Book	| Enter transaction ID, system calculates fine if late |
-Search Books	| Type keyword, filter by title/author/category |
